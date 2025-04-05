@@ -84,7 +84,7 @@ function SignUp() {
                     </div>
                 </div>
                 <div className="row mt-5  mb-5">
-                    <a href="http://localhost:5174/">
+                    <a href="https://zerodha-psi.vercel.app/">
                     <button type="button" class="btn btn-primary fs-3" style={{width:'25%' ,marginLeft:'500px'}}>Explore Investment</button>
                     </a>
                 </div>
